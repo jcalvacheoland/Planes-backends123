@@ -1,0 +1,141 @@
+{
+  "company_social_reason": "Equisuiza",
+  "method": "Nuevo Plan",
+  "periodo": 12,
+  "comparator_type": "Vehículo Liviano",
+  "coverage_benefits": [
+    "$25.000 (límite único)",
+    "$6.000 (por ocupante)",
+    "$2.500 (por ocupante)",
+    "1",
+    "10% valor siniestro, 1% valor asegurado, mínimo $250",
+    "15% del valor asegurado",
+    "15% del valor asegurado",
+    "0% con dispositivo de rastreo",
+    "Cobertura hasta 200 km de la frontera",
+    "100% en caso de siniestro cubierto",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "description": "Equisuiza Desarrollo",
+  "company_ruc": "1799999999001",
+  "filters": {
+    "medical_expenses": 2500,
+    "civil_liability": 25000
+  },
+  "notes_click": [
+    {
+      "text": "10% del valor del siniestro / 1% del valor asegurado / mínimo $250",
+      "title": "Pérdida parcial (daño o robo)",
+      "order": "1",
+      "status": "1"
+    },
+    {
+      "text": "15% del valor asegurado",
+      "title": "Pérdida total por daño",
+      "order": "2",
+      "status": "1"
+    },
+    {
+      "text": "15% del valor asegurado",
+      "title": "Pérdida total por robo",
+      "order": "3",
+      "status": "1"
+    },
+    {
+      "text": "$25.000 anual",
+      "title": "Responsabilidad Civil",
+      "order": "4",
+      "status": "1"
+    },
+    {
+      "text": "$6.000 por ocupante",
+      "title": "Muerte Accidental",
+      "order": "5",
+      "status": "1"
+    },
+    {
+      "text": "$2.500 por ocupante",
+      "title": "Gastos médicos",
+      "order": "6",
+      "status": "1"
+    },
+    {
+      "text": "Grúa hasta $250 por evento, máximo 2 eventos al año",
+      "title": "Gastos de grúa",
+      "order": "7",
+      "status": "1"
+    },
+    {
+      "text": "Auto sustituto hasta 10 días en pérdidas parciales y 20 días en pérdidas totales (2 eventos al año)",
+      "title": "Auto Sustituto",
+      "order": "8",
+      "status": "1"
+    }
+  ],
+  "company_order": 12,
+  "features": [
+    {
+      "feature": "PRINCIPALES COBERTURAS",
+      "detail": "Responsabilidad Civil: $25.000 anual /*/Muerte Accidental: $6.000 por ocupante /*/Gastos Médicos: $2.500 por ocupante",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "DEDUCIBLE",
+      "detail": "Pérdida parcial por daño o robo: 10% del valor del siniestro / 1% del valor asegurado / mínimo $250 /*/Pérdida total por daños: 15% del valor asegurado /*/Pérdida total por robo: 15% del valor asegurado",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "BENEFICIOS ESPECIALES",
+      "detail": "Asistencia vehicular 24/7 /*/Asistencia legal telefónica /*/Servicio exequial para el titular",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "Asistencia Legal",
+      "detail": "Cobertura de asistencia legal a nivel nacional, sin límite de eventos, para accidentes de tránsito del vehículo asegurado.",
+      "type": "SECUNDARIA",
+      "status": 1
+    },
+    {
+      "feature": "Asistencia Vehicular",
+      "detail": "Grúa, paso de corriente, cambio de llanta por pinchazo, envío de combustible (costo de combustible a cargo del asegurado).",
+      "type": "SECUNDARIA",
+      "status": 1
+    },
+    {
+      "feature": "Servicio de Grúa",
+      "detail": "Hasta $250 por evento, máximo 2 eventos al año.",
+      "type": "SECUNDARIA",
+      "status": 1
+    },
+    {
+      "feature": "Auto Sustituto",
+      "detail": "Vehículo de reemplazo tipo económico hasta 10 días en pérdidas parciales y 20 días en pérdidas totales. Máximo 2 eventos al año.",
+      "type": "SECUNDARIA",
+      "status": 1
+    }
+  ],
+  "status_cc": 1,
+  "company_name": "EQUISUIZA",
+  "line_type": "vehiculos",
+  "name": "EQUISUIZA",
+  "cc_notes": [
+    {
+      "text": "Vehículo sustituto hasta 10 días en pérdidas parciales y 20 días en pérdidas totales.",
+      "title": "Auto Sustituto",
+      "order": "1",
+      "status": "1"
+    }
+  ],
+  "ranking": 5,
+  "company_url": "https://apiportal.equisuiza.com",
+  "id": 99,
+  "company_observations": "LIVIANOS",
+  "status": 1
+}

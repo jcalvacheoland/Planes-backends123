@@ -2,7 +2,7 @@
   "company_social_reason": "Equisuiza",
   "method": "Nuevo Plan",
   "periodo": 12,
-  "comparator_type": "Vehículo Liviano",
+  "comparator_type": "Vehículo",
   "coverage_benefits": [
     "$25.000 (límite único)",
     "$6.000 (por ocupante)",
@@ -20,7 +20,7 @@
     "1",
     "1"
   ],
-  "description": "Equisuiza Desarrollo",
+  "description": "Plan Seguro + Amparo Patrimonial",
   "company_ruc": "1799999999001",
   "filters": {
     "medical_expenses": 2500,
@@ -136,6 +136,6 @@
   "ranking": 5,
   "company_url": "https://apiportal.equisuiza.com",
   "id": 99,
-  "company_observations": "LIVIANOS",
+  "company_observations": "Vehículo",
   "status": 1
 }

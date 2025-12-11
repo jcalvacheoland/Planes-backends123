@@ -1,0 +1,75 @@
+{
+  "company_social_reason": "Atlantida",
+  "method": "manual",
+  "periodo": 12,
+  "comparator_type": "Vehículo Liviano",
+  "coverage_benefits": [
+    "$45.000",//Responsabilidad Civil
+    "$5.000",//muerte accidental
+    "$3.000",//gastos medicos
+    "1",//amparo patrimonial
+    "10% VS, 1% VA, Min. 300 USD", //Pérdida parcial por daño o robo
+    "15% del valor asegurado",//Pérdida total por daño
+    "15% del valor asegurado",//Pérdida total por robo (sin dispositivo de rastreo)
+    "15% del valor asegurado",//Pérdida total por robo (con dispositivo de rastreo)
+    "0",//Pacto Andino
+    "0",//Airbag
+    "0",//Servicio de grúa
+    "0",//Asistencia vehicular
+    "0",//Asistencia legal
+    "0",//Asistencia exequial
+    "0",//Auto sustituto
+  ],
+  "description": "PLAN MEDIO",
+  "company_ruc": "1799999999001",
+  "filters": {
+    "medical_expenses": 2500,
+    "civil_liability": 25000
+  },
+  "notes_click": [
+    {
+      "text": "Notas Click",
+      "title": "Notas Click",
+      "order": "1",
+      "status": "1"
+    }
+  ],
+  "company_order": 12,
+  "features": [
+    {
+      "feature": "PRINCIPALES COBERTURAS",
+      "detail": "Responsabilidad Civil Daños y Lesiones LUC hasta  $20,000 /*/ Muerte Accidental  $5,000",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "DEDUCIBLE",
+      "detail": "Pérdida total por robo 15% valor asegurado /*/ Pérdida total daños 15% valor asegurado",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "BENEFICIOS ESPECIALES",
+      "detail": "No hay beneficios especiales incluidos",
+      "type": "PRIMARIA",
+      "status": 1
+    }
+  ],
+  "status_cc": 1,
+  "company_name": "ATLANTIDA",
+  "line_type": "vehiculos",
+  "name": "MEDIO",
+  "cc_notes": [
+    {
+      "text": "Plan medio de Atlantida",
+      "title": "MEDIO",
+      "order": "2",
+      "status": "1"
+    }
+  ],
+  "ranking": 5,
+  "company_url": "https://www.atlantida.com.ec/",
+  "id": 102,
+  "company_observations": "LIVIANOS",
+  "status": 1
+}

@@ -1,0 +1,79 @@
+{
+  "company_social_reason": "Atlantida",
+  "method": "manual",
+  "periodo": 12,
+  "comparator_type": "Vehículo Liviano",
+  "coverage_benefits": [
+    "$20.000",
+    "$5.000",
+    "$0",
+    "0",
+    "15% del valor asegurado",
+    "15% del valor asegurado",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+  ],
+  "description": "BASICO",
+  "company_ruc": "1799999999001",
+  "filters": {
+    "medical_expenses": 5000,
+    "civil_liability": 20000
+  },
+  "notes_click": [
+    {
+      "text": "Notas Click",
+      "title": "Notas Click",
+      "order": "1",
+      "status": "1"
+    }
+  ],
+  "company_order": 12,
+  "features": [
+    {
+      "feature": "PRINCIPALES COBERTURAS",
+      "detail": "Responsabilidad Civil Daños y Lesiones LUC hasta  $20,000 /*/ Muerte Accidental  $5,000",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "DEDUCIBLE",
+      "detail": "Pérdida total por robo 15% valor asegurado /*/ Pérdida total daños 15% valor asegurado",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "BENEFICIOS ESPECIALES",
+      "detail": "No hay beneficios especiales incluidos",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "No hay beneficios especiales incluidos",
+      "detail": "No hay beneficios especiales incluidos",
+      "type": "SECUNDARIA",
+      "status": 1
+    }
+  ],
+  "status_cc": 1,
+  "company_name": "ATLANTIDA",
+  "line_type": "vehiculos",
+  "name": "ATLANTIDA",
+  "cc_notes": [
+    {
+      "text": "Plan basico de Atlantida",
+      "title": "BASICO",
+      "order": "1",
+      "status": "1"
+    }
+  ],
+  "ranking": 5,
+  "company_url": "https://www.atlantida.com.ec/",
+  "id": 101,
+  "company_observations": "LIVIANOS",
+  "status": 1
+}

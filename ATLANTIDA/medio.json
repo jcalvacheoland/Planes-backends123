@@ -1,0 +1,111 @@
+{
+  "company_social_reason": "Atlantida",
+  "method": "manual",
+  "periodo": 12,
+  "comparator_type": "Vehículo Liviano",
+  "coverage_benefits": [
+    "$45.000",
+    "$5.000",
+    "$3.000",
+    "1",
+    "10% VS, 1% VA, Min. 300 USD",
+    "15% del valor asegurado",
+    "15% del valor asegurado",
+    "15% del valor asegurado",
+    "0",
+    "1",
+    "0",
+    "1",
+    "1",
+    "1",
+    "1"
+  ],
+  "description": "MEDIO",
+  "company_ruc": "1799999999001",
+  "filters": {
+    "medical_expenses": 3000,
+    "civil_liability": 45000
+  },
+  "notes_click": [
+    {
+      "text": "Notas Click",
+      "title": "Notas Click",
+      "order": "1",
+      "status": "1"
+    }
+  ],
+  "company_order": 12,
+  "features": [
+    {
+      "feature": "PRINCIPALES COBERTURAS",
+      "detail": "Responsabilidad Civil Daños y Lesiones LUC hasta  $45,000 /*/ Muerte Accidental $5,000  /*/ Gastos Médicos por Accidente $3,000",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+      "feature": "DEDUCIBLE",
+      "detail": "Pérdida total por robo 15% valor asegurado /*/ Pérdida total daños 15% valor asegurado /*/ Pérdida parcial Daños /*/ Pérdida parcial por robo",
+      "type": "PRIMARIA",
+      "status": 1
+    },
+    {
+    "feature": "BENEFICIOS ESPECIALES",
+    "detail": "Asistencia en Carretera /*/ Asistencia Auto Sustituto /*/ Asistencia Legal /*/ Asistencia Exequial /*/ Asistencia Internacional en Viajes /*/ Asistencia para Mascotas",
+    "type": "PRIMARIA",
+    "status": 1
+    },
+    {
+    "feature": "Asistencia en Carretera",
+    "detail": "Asistencia 24/7 a nivel nacional. Grúa por accidente o avería hasta 300 km. Conductor elegido.",
+    "type": "SECUNDARIA",
+    "status": 1
+  },
+  {
+    "feature": "Asistencia Auto Sustituto",
+    "detail": "Vehículo de reemplazo sin costo por siniestros mayores a USD 1.000. Hasta 30 días al año. Aplica para pérdidas parciales o totales.",
+    "type": "SECUNDARIA",
+    "status": 1
+  },
+  {
+    "feature": "Asistencia Legal",
+    "detail": "Asistencia legal telefónica 24/7. Asistencia legal presencial en Quito, Guayaquil, Cuenca y Ambato.",
+    "type": "SECUNDARIA",
+    "status": 1
+  },
+  {
+    "feature": "Asistencia Exequial",
+    "detail": "Servicio exequial para hasta 2 ocupantes por vehículo, por fallecimiento a causa del siniestro.",
+    "type": "SECUNDARIA",
+    "status": 1
+  },
+  {
+    "feature": "Asistencia Internacional en Viajes",
+    "detail": "Cobertura médica en el exterior hasta USD 7.000, odontología USD 300, medicamentos USD 600. Repatriación hasta USD 1.200. Indemnización por vuelo demorado y pérdida de equipaje.",
+    "type": "SECUNDARIA",
+    "status": 1
+  },
+  {
+    "feature": "Asistencia para Mascotas",
+    "detail": "Referencia y consulta veterinaria, consulta telefónica 24/7, mensajería para medicinas y alimentos, información de guarderías y adiestramiento.",
+    "type": "SECUNDARIA",
+    "status": 1
+  }
+  ],
+  "status_cc": 1,
+  "company_name": "ATLANTIDA",
+  "line_type": "vehiculos",
+  "name": "ATLANTIDA",
+  "cc_notes": [
+    {
+      "text": "Plan medio de Atlantida",
+      "title": "MEDIO",
+      "order": "2",
+      "status": "1"
+    }
+  ],
+  "ranking": 5,
+  "company_url": "https://www.atlantida.com.ec/",
+  "id": 102,
+  "company_observations": "LIVIANOS",
+  "status": 1
+}
